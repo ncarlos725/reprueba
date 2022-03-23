@@ -13,6 +13,7 @@ public class Lavadora extends Electrodomestico {
     private Integer carga;
     
     private String atributo1;
+    private Integer atributo2;
 
     public Lavadora() {
     }
