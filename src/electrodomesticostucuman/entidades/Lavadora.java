@@ -11,6 +11,8 @@ package electrodomesticostucuman.entidades;
  */
 public class Lavadora extends Electrodomestico {
     private Integer carga;
+    
+    private String atributo1;
 
     public Lavadora() {
     }
